@@ -1,0 +1,95 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "name": "Mustafa Hilmi Oruç",
+        "about": "Konya Teknik Üniversitesi 4. sınıf öğrencisi",
+        "skills": ["python", "react", "unity"],
+        "email": "mustafa.hilmi.oruc@gmail.com",
+        "number": "5423106917",
+        "job": "game developer"
+      },
+      {
+        "id": 2,
+        "name": "Ayşe Yıldız",
+        "about": "İstanbul Teknik Üniversitesi 3. sınıf öğrencisi",
+        "skills": ["java", "javascript", "c++"],
+        "email": "ayse.yildiz@gmail.com",
+        "number": "5423111111",
+        "job": "software engineer"
+      },
+      {
+        "id": 3,
+        "name": "Ahmet Kaya",
+        "about": "Hacettepe Üniversitesi 2. sınıf öğrencisi",
+        "skills": ["c#", "sql", "html"],
+        "email": "ahmet.kaya@gmail.com",
+        "number": "5423222222",
+        "job": "database administrator"
+      },
+      {
+        "id": 4,
+        "name": "Fatma Demir",
+        "about": "Ege Üniversitesi 4. sınıf öğrencisi",
+        "skills": ["python", "django", "css"],
+        "email": "fatma.demir@gmail.com",
+        "number": "5423333333",
+        "job": "backend developer"
+      },
+      {
+        "id": 5,
+        "name": "Mehmet Çelik",
+        "about": "Ankara Üniversitesi 1. sınıf öğrencisi",
+        "skills": ["c++", "go", "kotlin"],
+        "email": "mehmet.celik@gmail.com",
+        "number": "5423444444",
+        "job": "mobile developer"
+      },
+      {
+        "id": 6,
+        "name": "Zeynep Şahin",
+        "about": "Boğaziçi Üniversitesi 3. sınıf öğrencisi",
+        "skills": ["javascript", "react", "node.js"],
+        "email": "zeynep.sahin@gmail.com",
+        "number": "5423555555",
+        "job": "full stack developer"
+      },
+      {
+        "id": 7,
+        "name": "Murat Öz",
+        "about": "ODTÜ 2. sınıf öğrencisi",
+        "skills": ["swift", "java", "angular"],
+        "email": "murat.oz@gmail.com",
+        "number": "5423666666",
+        "job": "frontend developer"
+      },
+      {
+        "id": 8,
+        "name": "Elif Yılmaz",
+        "about": "Marmara Üniversitesi 4. sınıf öğrencisi",
+        "skills": ["ruby", "rails", "php"],
+        "email": "elif.yilmaz@gmail.com",
+        "number": "5423777777",
+        "job": "web developer"
+      },
+      {
+        "id": 9,
+        "name": "Caner Kılıç",
+        "about": "Selçuk Üniversitesi 3. sınıf öğrencisi",
+        "skills": ["typescript", "vue.js", "sql"],
+        "email": "caner.kilic@gmail.com",
+        "number": "5423888888",
+        "job": "frontend engineer"
+      },
+      {
+        "id": 10,
+        "name": "Selin Aydın",
+        "about": "Akdeniz Üniversitesi 2. sınıf öğrencisi",
+        "skills": ["python", "flask", "javascript"],
+        "email": "selin.aydin@gmail.com",
+        "number": "5423999999",
+        "job": "backend engineer"
+      }
+    ]
+  }
+  
